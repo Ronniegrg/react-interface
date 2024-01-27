@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ronniegrg/react-interface/static/css/main.3af7c2ff.css",
+    "main.js": "/Ronniegrg/react-interface/static/js/main.2615b477.js",
+    "index.html": "/Ronniegrg/react-interface/index.html",
+    "main.3af7c2ff.css.map": "/Ronniegrg/react-interface/static/css/main.3af7c2ff.css.map",
+    "main.2615b477.js.map": "/Ronniegrg/react-interface/static/js/main.2615b477.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3af7c2ff.css",
+    "static/js/main.2615b477.js"
+  ]
+}
